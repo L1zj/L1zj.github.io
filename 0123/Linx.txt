@@ -1,0 +1,14 @@
+bfDecrypt IPA shortcut:
+https://www.icloud.com/shortcuts/46e076897c194f17896b35c1b7697741
+
+Theos for Sileo:
+https://shiardev.github.io
+https://theos.dev
+
+Node:
+https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
+https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
+https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+
+_:https://brendonjkding.github.io/
