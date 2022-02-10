@@ -21,11 +21,11 @@ Maintainer: akusio <akusio-report@neko2.net>
 Installed-Size: 244
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
-Size: 14078
-MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
-SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
-SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
-Section: Tweaks
+Size: 12272
+MD5sum: 05137012538063e31a93e154f2574c78
+SHA1: 59a43b806248dc78d0e1f67fde62148aec57e2a9
+SHA256: 625909d3997c6b457f8338a0644856d37ac036f3bd90653f107c12c126d1df69
+Section: Backup
 Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
 Author: akusio <akusio-report@neko2.net>
 Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
@@ -38,13 +38,46 @@ Maintainer: akusio <akusio-report@neko2.net>
 Installed-Size: 376
 Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
 Filename: debs/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
-Size: 44822
-MD5sum: 45aff19ea7b0327a72e50c4a87d68cd8
-SHA1: a779498db20097cef4783e6d817796d640bd6372
-SHA256: 9c1aa016b720ecfaa6f3176cd88454ec8767f1832306b69cda85e3ed734165e3
-Section: Tweaks
+Size: 42964
+MD5sum: 412e778c8f71aca344a47077dd3e991d
+SHA1: 4f594494a022a1d655ffe9649aeb6b7ff2b4e48c
+SHA256: 5dbcfaff823ca3e48509f6a254d86d0db25e1a126ee0f1a4f33c58849cbccf1a
+Section: Backup
 Description: multitasking for iOS13.
 Author: akusio <akusio-report@neko2.net>
 Depiction: http://akusio.github.io/descriptions/milkyway2/index.html
 Name: MilkyWay2
+
+Package: netskao.disabletestflightblock
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 460
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/netskao.disabletestflightblock_1.1-2_iphoneos-arm.deb
+Size: 89536
+MD5sum: 69f8eb50535b584a89049b82cf05d4b7
+SHA1: 6e71b23e9a333f223666d6b7f9e62de62f2815c2
+SHA256: a3219ae2a8ba6db0297a50c8e9f940f1d1f177b1b731629e45efc41c87cb7077
+Section: Backup
+Description: Enable Chinese AppleID to install foreign applications in TestFlight.
+Author: Netskao
+Name: DisableTestFlightBlock
+
+Package: netskao.filzacrack
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 172
+Depends: mobilesubstrate, com.tigisoftware.filza64bit
+Filename: debs/netskao.filzacrack_1.1-7_iphoneos-arm.deb
+Size: 25220
+MD5sum: d7e56ebe987e990e728e7341a9611b45
+SHA1: 0b697f733cdf247c2d232c048bce8b17c4794e1f
+SHA256: ef645629b04d3fa1dedafa642320289b90250a43ed5463e7781e7729815aa6ce
+Section: Backup
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza Crack
+Author: Netskao
+Name: Filza Crack
 
