@@ -1,0 +1,15 @@
+Package: com.l1zj.clonehack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: L1zj <Lizhijian231115@163.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.l1zj.clonehack_0.0.1_iphoneos-arm.deb
+Size: 3788
+MD5sum: d45858648a60979c70ca1511f80ae05f
+SHA1: 80e23de0125d5a90ecf0e32d1948a13e0444d131
+SHA256: c9d16689e499dd083482de626e1e64547a7adc285dbf68c5124ea86366913dfe
+Section: Tweaks
+Description: Clone git client hack
+Author: L1zj <Lizhijian231115@163.com>
+Name: Clone Hack
