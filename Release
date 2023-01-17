@@ -1,0 +1,8 @@
+Origin: L1zj's Repo
+Label: L1zj's Repo
+Suite: stable
+Version: 1.0
+Codename: tweak
+Architectures: iphoneos-arm
+Components: main
+Description: tweaks
