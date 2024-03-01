@@ -8,7 +8,6 @@ MD5sum: e8b1a6313627b053b60231e72f612482
 SHA1: 3dd17f9dc4aa74161672f53f1577d10a8c6b793f
 SHA256: adce87ea5c54d2015c854ce28967a922d39a0fdd38eae5afab5d1730cdc33b1f
 Section: Themes
-Description: iOSX theme of bank5ia, made from iOS 14 .pngs, not the original version.
 Author: Bank5ia
 Name: iOSX
 
@@ -17,14 +16,13 @@ Version: 0.5
 Architecture: iphoneos-arm64
 Maintainer: L1zj
 Filename: debs/com.bank5ia.iosxpngs_0.5_iphoneos-arm64.deb
-Size: 7991444
-MD5sum: e8b1a6313627b053b60231e72f612482
-SHA1: 3dd17f9dc4aa74161672f53f1577d10a8c6b793f
-SHA256: adce87ea5c54d2015c854ce28967a922d39a0fdd38eae5afab5d1730cdc33b1f
+Size: 8047196
+MD5sum: a74d92b2fdb4c9bea43b786312de8abf
+SHA1: 5d30075f89730a683aa12c34d677ee2293e1d971
+SHA256: 71f311a02c49dbdca1dbced9b1a0068276d2790a836ca07aa123b844081333e0
 Section: Themes
-Description: iOSX theme of bank5ia, made from iOS 14 .pngs, not the original version.
 Author: Bank5ia
-Name: iOSX (Rootless)
+Name: iOSX
 
 Package: com.l1zj.clonehack
 Version: 0.0.1
