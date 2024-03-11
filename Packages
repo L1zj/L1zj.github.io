@@ -1,41 +1,56 @@
 Package: com.bank5ia.iosxpngs
 Version: 0.5
 Architecture: iphoneos-arm
-Maintainer: L1zj
 Filename: debs/com.bank5ia.iosxpngs_0.5_iphoneos-arm.deb
 Size: 8047216
-MD5sum: fba378656fcad2707c84dcc9adfcd00c
-SHA1: 37285a32923ca2960ef08a3299ded37459d75589
-SHA256: 58d60ec10a1d0be9a9e740d2aa78614415b33f57479e1b2986cadd97325f1e46
+MD5sum: 7acabb88b475afe6663d1f4997d021f2
+SHA1: 3e7c9611dde2af74c3e87deb819f7e2612b48e79
+SHA256: 978e93fbe007d4e5618737a326edc1d9b1999668bbcc4860cd788b7a6c6ca452
 Section: Themes
 Author: Bank5ia
 Name: iOSX
 
-Package: com.bank5ia.iosxpngs
+Package: com.bank5ia.iosxpngs-rootless
 Version: 0.5
 Architecture: iphoneos-arm64
-Maintainer: L1zj
-Filename: debs/com.bank5ia.iosxpngs_0.5_iphoneos-arm64.deb
-Size: 8047456
-MD5sum: 587d7ff92338c3a01c30c6608e342217
-SHA1: 36510cabafdfa7d651a1814ce51e15665a20f5a7
-SHA256: 744f34d506946703375d70c27a1986f13512f2f020b7012850e6f807cffb15b9
+Filename: debs/com.bank5ia.iosxpngs-rootless_0.5_iphoneos-arm64.deb
+Size: 8047144
+MD5sum: 81faed5640f970982ef8125c5455f8c3
+SHA1: 1fb6d4cc4a8f8845f46ce5cdf6d643315f8438ef
+SHA256: 14a251b819fd816e50925a11daa084eac6521afb6449a0886b04e35bc57a7224
 Section: Themes
 Author: Bank5ia
 Name: iOSX
 
 Package: com.l1zj.clonehack
-Version: 0.0.1
+Version: 0.1
 Architecture: iphoneos-arm
-Maintainer: L1zj <Lizhijian231115@163.com>
+Maintainer: L1zj <lzjsjq@163.com>
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: debs/com.l1zj.clonehack_0.0.1_iphoneos-arm.deb
-Size: 3788
-MD5sum: d45858648a60979c70ca1511f80ae05f
-SHA1: 80e23de0125d5a90ecf0e32d1948a13e0444d131
-SHA256: c9d16689e499dd083482de626e1e64547a7adc285dbf68c5124ea86366913dfe
+Filename: debs/com.l1zj.clonehack_0.1_iphoneos-arm.deb
+Size: 3936
+MD5sum: 5241c1a0f70cc0e91a82d5c510c101b6
+SHA1: f26df86021824a764e95bec093f3ecf4e3b4cfd5
+SHA256: 7255622201a4c407af935c65e40918109ebfb1e107468bf8437602dc083aeafc
 Section: Tweaks
-Description: Clone git client hack
-Author: L1zj <Lizhijian231115@163.com>
+Description: Clone git client hack. Install the app from App Store first.
+Author: L1zj <lzjsjq@163.com>
 Name: Clone Hack
+
+Package: com.l1zj.clonehack-rootless
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: L1zj <lzjsjq@163.com>
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: debs/com.l1zj.clonehack-rootless_0.1_iphoneos-arm64.deb
+Size: 66796
+MD5sum: 573f1b1aaa81df81af9691961717135c
+SHA1: 64dc652e96d3f2b8b7a915f8511861b73748a311
+SHA256: 828a637366ff8d917bb0bb20746ff611cf7ac9e44fee2435501cad7ed81c9dd8
+Section: Tweaks
+Description: Clone git client hack. Install the app from App Store first.
+Author: L1zj <lzjsjq@163.com>
+Name: Clone Hack
+
