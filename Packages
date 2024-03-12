@@ -45,10 +45,10 @@ Maintainer: L1zj <lzjsjq@163.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: debs/com.l1zj.clonehack-rootless_0.1_iphoneos-arm64.deb
-Size: 3092
-MD5sum: d46fdcc722149f3cae1625997c4933bb
-SHA1: 4bb5357e39a4b80efcfcce805c77ccb64165509e
-SHA256: 57edd8f8e8e08b2a5dfbf8102226767bea54e2063d43721a752d70c233ca55cf
+Size: 3046
+MD5sum: 1b462c22ba276d0e8707b2b783b6a069
+SHA1: 7e83a5ce4f9569e278dc19e9af5a9ed5d6757c83
+SHA256: 7929b5120c6f5b082590b0401b1e8f7d79b3a3424d26d20e07b6867092752b9a
 Section: Tweaks
 Description: Clone git client hack. Install the app from App Store first.
 Author: L1zj <lzjsjq@163.com>
