@@ -44,7 +44,7 @@ Architecture: iphoneos-arm64
 Maintainer: L1zj <lzjsjq@163.com>
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: packages/com.l1zj.clonehack-rootless_0.1_iphoneos-arm64.deb
+Filename: debs/com.l1zj.clonehack-rootless_0.1_iphoneos-arm64.deb
 Size: 3092
 MD5sum: d46fdcc722149f3cae1625997c4933bb
 SHA1: 4bb5357e39a4b80efcfcce805c77ccb64165509e
