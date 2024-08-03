@@ -30,7 +30,7 @@ Installed-Size: 264
 Depends: mobilesubstrate
 Filename: debs/com.lzjbrian.clonehack_0.1_iphoneos-arm.deb
 Size: 3936
-MD5sum: 5241c1a0f70cc0e91a82d5c510c101b6
+MD5sum: 3e1f3535911d7f3b024ad40e1f05e621
 SHA1: f26df86021824a764e95bec093f3ecf4e3b4cfd5
 SHA256: 7255622201a4c407af935c65e40918109ebfb1e107468bf8437602dc083aeafc
 Section: Tweaks
@@ -45,10 +45,10 @@ Maintainer: lzjbrian <lzjsjq@163.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: debs/com.lzjbrian.clonehack-rootless_0.1_iphoneos-arm64.deb
-Size: 3040
-MD5sum: 8b836a133bbe0e5276042790bb51f6c9
-SHA1: bb4c6908c88bff7f7efef709e5af3f8561aa401b
-SHA256: 53c26c1dcf4dfa3856b0a9dad3b2edaacac77e4698678d866d4922525643e06b
+Size: 3928
+MD5sum: 2d4f4dbda5b72f4dbd0718cd86fb16e5
+SHA1: d90588921cd3bc9606fb22b582aee1dc947bf775
+SHA256: c8400c6925beb7576dd0450d1c5ecfe7c42ce6e78118922acfcdfbe252cdd965
 Section: Tweaks
 Description: Clone git client hack. Install the app from App Store first.
 Author: lzjbrian <lzjsjq@163.com>
