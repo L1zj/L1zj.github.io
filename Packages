@@ -45,7 +45,7 @@ Maintainer: lzjbrian <lzjsjq@163.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: debs/com.lzjbrian.clonehack-rootless_0.1_iphoneos-arm64.deb
-Size: 3928
+Size: 3152
 MD5sum: 2d4f4dbda5b72f4dbd0718cd86fb16e5
 SHA1: d90588921cd3bc9606fb22b582aee1dc947bf775
 SHA256: c8400c6925beb7576dd0450d1c5ecfe7c42ce6e78118922acfcdfbe252cdd965
