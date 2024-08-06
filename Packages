@@ -53,21 +53,3 @@ Section: Tweaks
 Description: Clone git client hack. Install the app from App Store first.
 Author: lzjbrian <lzjsjq@163.com>
 Name: Clone Hack
-
-Package: com.p2kdev.tinge
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 204
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 15.0),mobilesubstrate
-Filename: debs/Tinge_1.0-rootless.deb
-Size: 27486
-MD5sum: 87debcab266337c311d5e30ad5036e03
-SHA1: b9c2e6c4a1b6d0924b5dbb57b562d99a1495f035
-SHA256: 9065e2246b41a6ed4d75a33976e6abcc112cf40476a6a254810157af2f4b3a8d
-Section: Tweaks
-Description: Color your badges with Perfection!
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
-Name: Tinge
