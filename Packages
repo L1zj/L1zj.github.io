@@ -1,7 +1,7 @@
 Package: com.bank5ia.iosxpngs
 Version: 0.5
 Architecture: iphoneos-arm
-Filename: debs/com.bank5ia.iosxpngs_0.5_iphoneos-arm.deb
+Filename: debs/iosxpngs_0.5.deb
 Size: 8047216
 MD5sum: 7acabb88b475afe6663d1f4997d021f2
 SHA1: 3e7c9611dde2af74c3e87deb819f7e2612b48e79
@@ -13,7 +13,7 @@ Name: iOSX
 Package: com.bank5ia.iosxpngs-rootless
 Version: 0.5
 Architecture: iphoneos-arm64
-Filename: debs/com.bank5ia.iosxpngs-rootless_0.5_iphoneos-arm64.deb
+Filename: debs/iosxpngs-rootless_0.5.deb
 Size: 8047144
 MD5sum: 81faed5640f970982ef8125c5455f8c3
 SHA1: 1fb6d4cc4a8f8845f46ce5cdf6d643315f8438ef
@@ -22,34 +22,35 @@ Section: Themes
 Author: Bank5ia
 Name: iOSX
 
-Package: com.lzjbrian.clonehack
+Package: com.lzjbrian.clonecrack
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: lzjbrian <lzjsjq@163.com>
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: debs/com.lzjbrian.clonehack_0.1_iphoneos-arm.deb
-Size: 3928
-MD5sum: 3e1f3535911d7f3b024ad40e1f05e621
-SHA1: f26df86021824a764e95bec093f3ecf4e3b4cfd5
-SHA256: 7255622201a4c407af935c65e40918109ebfb1e107468bf8437602dc083aeafc
+Filename: debs/clonecrack_0.1.deb
+Size: 3920
+MD5sum: 1168cba6019233aa881c7af4a33adde7
+SHA1: 954840cd3d65f67c53431a8bb388e6cc7151b81d
+SHA256: 96c3f2e40389252d5693feacdc11eb76f68d75117a37814ffa5b98ece31988ce
 Section: Tweaks
-Description: Clone git client hack. Install the app from App Store first.
+Description: Clone - Git client advanced crack.
 Author: lzjbrian <lzjsjq@163.com>
-Name: Clone Hack
+Name: Clone Crack
 
-Package: com.lzjbrian.clonehack-rootless
+Package: com.lzjbrian.clonecrack-rootless
 Version: 0.1
 Architecture: iphoneos-arm64
 Maintainer: lzjbrian <lzjsjq@163.com>
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: debs/com.lzjbrian.clonehack-rootless_0.1_iphoneos-arm64.deb
-Size: 3152
-MD5sum: 2d4f4dbda5b72f4dbd0718cd86fb16e5
-SHA1: d90588921cd3bc9606fb22b582aee1dc947bf775
-SHA256: c8400c6925beb7576dd0450d1c5ecfe7c42ce6e78118922acfcdfbe252cdd965
+Filename: debs/clonecrack-rootless_0.1.deb
+Size: 3136
+MD5sum: e1dfa67f792fffd980f69f3b951c9559
+SHA1: 834f64148465c88389a96d9acbc4a2f1dd69049d
+SHA256: 5d2a3e4eff07766e170f9ac90477f0f1f31a994d45b478887fce07c42a298bb6
 Section: Tweaks
-Description: Clone git client hack. Install the app from App Store first.
+Description: Clone - Git client advanced crack.
 Author: lzjbrian <lzjsjq@163.com>
-Name: Clone Hack
+Name: Clone Crack
+
