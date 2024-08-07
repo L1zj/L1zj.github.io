@@ -7,6 +7,7 @@ MD5sum: 7acabb88b475afe6663d1f4997d021f2
 SHA1: 3e7c9611dde2af74c3e87deb819f7e2612b48e79
 SHA256: 978e93fbe007d4e5618737a326edc1d9b1999668bbcc4860cd788b7a6c6ca452
 Section: Themes
+Description:
 Author: Bank5ia
 Name: iOSX
 
@@ -19,6 +20,7 @@ MD5sum: 81faed5640f970982ef8125c5455f8c3
 SHA1: 1fb6d4cc4a8f8845f46ce5cdf6d643315f8438ef
 SHA256: 14a251b819fd816e50925a11daa084eac6521afb6449a0886b04e35bc57a7224
 Section: Themes
+Description:
 Author: Bank5ia
 Name: iOSX
 
